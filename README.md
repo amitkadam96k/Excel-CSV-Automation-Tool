@@ -69,7 +69,7 @@ Write-Host "✅ Desktop shortcut created successfully!"
 1. **Right-click** on your Desktop → **New** → **Shortcut**
 2. **Paste this in the location field:**
    ```
-   C:\Users\kadam\AppData\Local\Programs\Python\Python311\python.exe "c:\Users\kadam\OneDrive\Desktop\working projects by me\Excel csv work\app.py"
+   C:\Users\***\AppData\Local\Programs\Python\Python311\python.exe "c:\Users\kadam\OneDrive\Desktop\working projects by me\Excel csv work\app.py"
    ```
 3. **Click Next** ➡️
 4. **Name it:** `Excel-CSV-Tool` 📝
@@ -178,4 +178,5 @@ See embedded license in `app.py` for full details.
 Created by **Amit Kadam** 🎯
 
 *Enjoy automating your data workflows!* 🚀✨
+
 
