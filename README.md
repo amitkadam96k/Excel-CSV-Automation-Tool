@@ -4,10 +4,8 @@
 
 -------------------------------------------------------------
 
-╔════════════════════════════════════════╗
-║   Excel / CSV Automation Tool v1.0     ║
-║   🧰 Built with Python & CustomTkinter ║
-╚════════════════════════════════════════╝
+
+   Excel / CSV Automation Tool v1.0 🧰 Built with Python & CustomTkinter 
 
 ## ✨ Features
 
@@ -180,3 +178,4 @@ See embedded license in `app.py` for full details.
 Created by **Amit Kadam** 🎯
 
 *Enjoy automating your data workflows!* 🚀✨
+
