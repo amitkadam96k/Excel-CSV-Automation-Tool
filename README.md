@@ -102,7 +102,7 @@ Already created for you: `Excel-CSV-Tool.bat`
 3. **Review** 👀 → See previews in real-time
 4. **Generate Reports** 📊 → Automatic PDF + Excel exports
 
-The app creates an `output/` folder with timestamped subfolders for each run.
+The app creates an `output/` folder with timestamped subfolders for each run
 
 ---
 
@@ -178,5 +178,6 @@ See embedded license in `app.py` for full details.
 Created by **Amit Kadam** 🎯
 
 *Enjoy automating your data workflows!* 🚀✨
+
 
 
